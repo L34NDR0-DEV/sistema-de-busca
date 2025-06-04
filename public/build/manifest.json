@@ -1,0 +1,19 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DtyZSB-x.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-T1DpEqax.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/mapa_input.js": {
+    "file": "assets/mapa_input-BZz5RaF4.js",
+    "name": "mapa_input",
+    "src": "resources/js/mapa_input.js",
+    "isEntry": true
+  }
+}
